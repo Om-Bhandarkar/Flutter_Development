@@ -1,16 +1,5 @@
-# day1
+![WhatsApp Image 2024-01-11 at 13 00 32_eeb0a794](https://github.com/Om-Bhandarkar/Flutter_Development/assets/99426684/8f598564-5c4a-4896-ae1f-510014b5bfa2)
+<h2>Assignment 1 : </h2>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2024-01-11 at 13 08 02_097e9061](https://github.com/Om-Bhandarkar/Flutter_Development/assets/99426684/63314148-896a-4d83-bbc2-bae54a48057e)
+<h2>Assignment 2 : </h2>
