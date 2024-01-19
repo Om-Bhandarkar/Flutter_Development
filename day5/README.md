@@ -1,16 +1,30 @@
-# day5
+# Flutter Netflix App
 
-A new Flutter project.
+A simple Flutter application to replicate a basic version of the Netflix user interface.
+
+## Features
+
+- **Homepage:** Browse and view a list of popular movies and TV shows.
+- **Details Page:** View detailed information about a selected movie or TV show.
+- **Search:** Search for movies and TV shows based on keywords.
+
+## Screenshots
+![Screenshot (84)](https://github.com/Om-Bhandarkar/Flutter_Development/assets/99426684/7a6fde73-3df9-4844-80c1-8d50a0a78660)
+
+![Screenshot (85)](https://github.com/Om-Bhandarkar/Flutter_Development/assets/99426684/532e4c4f-2772-4658-a7a3-eabed5476478)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+These instructions will help you set up and run the Flutter Netflix app on your local machine.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter](https://flutter.dev/) installed on your machine.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installing
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/flutter-netflix-app.git
+
