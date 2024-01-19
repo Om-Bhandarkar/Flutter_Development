@@ -4,9 +4,9 @@ A simple Flutter application to replicate a basic version of the Netflix user in
 
 ## Features
 
-- **Homepage:** Browse and view a list of popular movies and TV shows.
+- **Homepage:** View a list of popular movies and Web Series.
 - **Details Page:** View detailed information about a selected movie or TV show.
-- **Search:** Search for movies and TV shows based on keywords.
+- **Search:** Search for movies and TV shows based on keywords
 
 ## Screenshots
 ![Screenshot (84)](https://github.com/Om-Bhandarkar/Flutter_Development/assets/99426684/7a6fde73-3df9-4844-80c1-8d50a0a78660)
