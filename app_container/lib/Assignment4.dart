@@ -1,3 +1,5 @@
+
+
 import 'package:flutter/material.dart';
 
 class Assignment4 extends StatelessWidget {
@@ -7,21 +9,35 @@ class Assignment4 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: const Text("Assignment4"),
+          title: const Text(
+            "Assignment 4",
+          ),
         ),
-        body: Center(
+        body: SingleChildScrollView(
           child: Container(
-            color: Colors.blue,
-            child: Container(
-              height: 250,
-              width: 250,
-              color: Colors.amber,
-              alignment: Alignment.center,
-              padding: const EdgeInsets.all(20),
-              margin: const EdgeInsets.all(20),
-              child: Image.network(
-                "https://imgs.search.brave.com/w4CZTo3zzJl0-7k_w6bACXF8Y4fPMuZykz45V76VCsk/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWd2/My5mb3Rvci5jb20v/aW1hZ2VzL2Jsb2ct/Y292ZXItaW1hZ2Uv/YS1sYXB0b3AtYW5k/LWEtY2FtZXJhLW9u/LXRoZS1kZXNrLmpw/Zw",
-              ),
+            width: 300,
+            margin: const EdgeInsets.all(10),
+            child: Column(
+              children: [
+                Image.network(
+                  "https://imgs.search.brave.com/2tcThiogBlQtTRL1xOR8F9SA11WbNIzYlbWHVKSeVUY/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzFlL2U1/LzM4LzFlZTUzODkw/NzI2MDcyOTg0Nzc5/MDcxMjhjYjQ0YzQ1/LmpwZw",
+                  // width: 200,
+                ),
+                const SizedBox(
+                  height: 10,
+                ),
+                Image.network(
+                  "https://imgs.search.brave.com/qCmEok_dX1jPlter6QUeni2_ahoglp55KVtChQmkf-M/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzEyL2Vl/L2E5LzEyZWVhOWEz/ZGZiZDY4YzM3ODg5/MTUzOTJmZmY4Yjdl/LmpwZw",
+                  // width: 200,
+                ),
+                const SizedBox(
+                  height: 10,
+                ),
+                Image.network(
+                  "https://imgs.search.brave.com/KSD6tmN5ku4MHuLSlXveAZy_yergIqXSZZa3322txPE/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2ZkLzNi/LzVmL2ZkM2I1ZmEy/NDIyMjgzZDUwNDk3/MGVmNDYxZDFhMjAx/LmpwZw",
+                  // width: 200,
+                ),
+              ],
             ),
           ),
         ));
