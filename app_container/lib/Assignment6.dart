@@ -7,7 +7,7 @@ class Assignment6 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: const Text('Assignment3'),
+          title: const Text('Assignment6'),
         ),
         body: SingleChildScrollView(
           child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [

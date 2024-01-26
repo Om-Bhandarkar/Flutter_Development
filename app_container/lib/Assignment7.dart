@@ -17,7 +17,7 @@ class Assignment7 extends StatelessWidget {
               color: Color.fromARGB(255, 253, 255, 248),
               width: 150,
               child: Image.network(
-                "https://th.bing.com/th?id=OIP.1YM53mG10H_U25iPjop83QHaEo&w=316&h=197&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
+                "https://images.pexels.com/photos/235986/pexels-photo-235986.jpeg?auto=compress&cs=tinysrgb&w=600",
                 width: 150,
                 height: 300,
               ),
