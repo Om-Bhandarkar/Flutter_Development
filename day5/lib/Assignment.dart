@@ -13,20 +13,21 @@ class _AssignmentState extends State<Assignment> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: const Color.fromARGB(255, 228, 3, 3),
+        centerTitle: true,
+        backgroundColor: const Color.fromARGB(255, 0, 0, 0),
+
         title: const Text(
           "NetFlix",
           style: TextStyle(
             fontStyle: FontStyle.normal,
-            color: Colors.black,
+            color: Colors.red,
             fontSize: 30,
           ),
         ),
       ),
-      
       body: SingleChildScrollView(
           child: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
+        crossAxisAlignment: CrossAxisAlignment.center,
         children: [
           const SizedBox(
             width: 20,
